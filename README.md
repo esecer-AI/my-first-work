@@ -1,3 +1,4 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KULLANICI_ADIN/DEPO_ADIN/blob/main/DOSYA_ADIN.ipynb)
 # 🤖 My First AI Sentiment Analysis Project
 
 Bu benim GitHub üzerindeki **ilk yapay zeka denememdir!** Bu projede, doğal dil işleme (NLP) tekniklerini kullanarak metinlerin duygusal tonunu analiz eden basit bir uygulama geliştirdim.
